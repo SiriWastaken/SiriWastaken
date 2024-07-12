@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiriWastaken
 - 👀 I’m interested in Robotics and computers
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning FORTRAN
 - 💞️ I’m looking to collaborate on Nothing at the moment
 - 📫 How to reach me: sri.ganty@outlook.com
 - 😄 Pronouns: He/Him
