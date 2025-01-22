@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SiriWastaken
 - 👀 I’m interested in Robotics and computers
-- 🌱 I’m currently learning FORTRAN
-- 💞️ I’m looking to collaborate on Nothing at the moment
-- 📫 How to reach me: sri.ganty@outlook.com
+- 🌱 I’m currently learning C++
+I'm looking to collaborate on any projects
+- 📫 How to reach me: discord: siridev
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can throw things with an 98.9725% accuraccy into trashcans. 
 
