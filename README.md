@@ -25,7 +25,6 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" /></a>
-  <a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=markdown&theme=dark" /></a>
 </p>
 
 ---
