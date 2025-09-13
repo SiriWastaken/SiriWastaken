@@ -47,16 +47,6 @@
 
 ---
 
-## 🛠️ Projects
-
-Here are some of my public repositories:
-
-- [📦 Project One](https://github.com/siriwastaken/project-one)
-- [📦 Project Two](https://github.com/siriwastaken/project-two)
-- [📦 Project Three](https://github.com/siriwastaken/project-three)
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -68,13 +58,13 @@ Here are some of my public repositories:
 <p align="center">
   <img src="https://img.shields.io/badge/Python_Wizard-Automated_5_Scripts-ff9e64?style=for-the-badge&logo=python&logoColor=white" alt="Python Wizard" />
   <br>
-  <sub>🐍 Python Wizard: Automated 5 scripts</sub>
+  <sub>🐍 Python Wizard: Write 5 programs</sub>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics_Engineer-Built_a_Robot-7aa2f7?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Engineer" />
   <br>
-  <sub>🤖 Robotics Engineer: Built a robot</sub>
+  <sub>🤖 Robotics Engineer: Built a robot in Vex IQ</sub>
 </p>
 
 <p align="center">
