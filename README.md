@@ -1,5 +1,30 @@
-Hi, I’m @SiriWastaken
-I’m interested in Robotics and computers
-I’m currently learning Java, (some C++) and JS + TS
-How to reach me: discord: siridev
+# 👋 Hey, I'm Siri  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Student+%40+Crescent;Java+%26+Python+Dev;Future+EngSci+%2B+MD!)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
+- 🎓 Student 
+- 💻 Java / Python enthusiast  
+- 🤖 Robotics man
+- 📚 Love reading lengthy documentation
+
+---
+
+## 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+![Siri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriganty&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriganty&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contributions
+![snake gif](https://github.com/sriganty/sriganty/blob/output/snake.svg)
