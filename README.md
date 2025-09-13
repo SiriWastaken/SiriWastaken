@@ -19,7 +19,22 @@
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,markdown" />
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
+  <a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=markdown" /></a>
+</p>
+
+---
+
+## 🌱 Currently Learning  
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://create.roblox.com/"><img src="https://skillicons.dev/icons?i=lua" /></a>
 </p>
 
 ---
@@ -35,7 +50,7 @@
 
 ## 🐍 Contributions  
 <p align="center">
-  <img src="https://github.com/sriganty/sriganty/blob/output/snake.svg" alt="snake gif"/>
+  <img src="https://github.com/siriwastaken/siriwastaken/blob/output/snake.svg" alt="snake gif"/>
 </p>
 
 ---
