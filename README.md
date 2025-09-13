@@ -73,6 +73,4 @@
   <sub>🌱 Explorer of Code: Learning JavaScript, C++, Lua</sub>
 </p>
 
---
-
 <p align="center">⚡ Always learning. Always coding. Always curious. ⚡</p>
