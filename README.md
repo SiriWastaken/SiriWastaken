@@ -12,14 +12,14 @@
 
 ## 🚀 About Me  
 💻 Java / Python enthusiast  
-🤖 Robotics tinkerer  
+🤖 Robotics guy  
 📚 Love digging into long documentation  
 
 ---
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,intellijmarkdown" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,markdown" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siriwastaken&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwastaken&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriwastaken&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00" height="180" />
 </p>
 
 ---
@@ -40,4 +40,4 @@
 
 ---
 
-<p align="center">⚡ Always learning. Always building. Always curious. ⚡</p>
+<p align="center">⚡ Always learning. Always coding. Always curious. ⚡</p>
