@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Siri  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Student+%40+;Java+%26+Python+Dev;Future+EngSci+%2B+MD!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Student;Java+%26+Python+Dev;)](https://git.io/typing-svg)
 
 ---
 
