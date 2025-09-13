@@ -47,4 +47,42 @@
 
 ---
 
+## 🛠️ Projects
+
+Here are some of my public repositories:
+
+- [📦 Project One](https://github.com/siriwastaken/project-one)
+- [📦 Project Two](https://github.com/siriwastaken/project-two)
+- [📦 Project Three](https://github.com/siriwastaken/project-three)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_Master-Completed_10+_Projects-7aa2f7?style=for-the-badge&logo=java&logoColor=white" alt="Java Master" />
+  <br>
+  <sub>💻 Java Master: Completed 10+ projects</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_Wizard-Automated_5_Scripts-ff9e64?style=for-the-badge&logo=python&logoColor=white" alt="Python Wizard" />
+  <br>
+  <sub>🐍 Python Wizard: Automated 5 scripts</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Robotics_Engineer-Built_a_Robot-7aa2f7?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Engineer" />
+  <br>
+  <sub>🤖 Robotics Engineer: Built a robot</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Explorer_Of_Code-Learned_JS%2C_C%2B%2B%2C_Lua-ff9e64?style=for-the-badge&logo=github&logoColor=white" alt="Explorer of Code" />
+  <br>
+  <sub>🌱 Explorer of Code: Learning JavaScript, C++, Lua</sub>
+</p>
+
+--
+
 <p align="center">⚡ Always learning. Always coding. Always curious. ⚡</p>
