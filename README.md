@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Student+Developer;Java+%26+Python+Enthusiast;Robotics+%7C+Builder+%7C+Coder;Lover+of+Clean+Code+%26+Docs" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Student+Developer;Java+%26+Python+Enthusiast;Robotics+%7C+Programmer+%7C+Strategist;Lover+of+Clean+Code+%26+Docs" />
   </a>
 </p>
 
