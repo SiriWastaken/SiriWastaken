@@ -73,4 +73,15 @@
   <sub>🌱 Explorer of Code: Learning JavaScript, C++, Lua</sub>
 </p>
 
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="https://discord.com/users/siridev"><img src="https://img.shields.io/badge/Discord-Join_Me-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/siriwastaken"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
 <p align="center">⚡ Always learning. Always coding. Always curious. ⚡</p>
