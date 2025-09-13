@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python_Wizard-Automated_5_Scripts-ff9e64?style=for-the-badge&logo=python&logoColor=white" alt="Python Wizard" />
+  <img src="https://img.shields.io/badge/Python_Wizard-Write_5_Programs-ff9e64?style=for-the-badge&logo=python&logoColor=white" alt="Python Wizard" />
   <br>
   <sub>🐍 Python Wizard: Write 5 programs</sub>
 </p>
