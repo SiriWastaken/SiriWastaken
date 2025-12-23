@@ -1,23 +1,23 @@
 <!-- Profile README -->
 
-<h1 align="center">✨ Hey, I'm Siri ✨</h1>
+<h1 align="center">Hi, I'm Siri 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Student+Developer;Java+%26+Python+Enthusiast;Robotics+%7C+Programmer+%7C+Strategist;Lover+of+Clean+Code+%26+Docs" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Student+Developer;Java+%26+Python+Learner;Robotics+and+Coding+Enthusiast;Exploring+OOP+%26+CLI+Projects" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
-💻 Java / Python enthusiast  
-🤖 Robotics guy  
-📚 Love digging into long documentation  
+## About Me
+💻 Student developer exploring **Java**, **Python**, and **object-oriented programming**  
+🤖 Robotics enthusiast, building and programming small robots  
+📚 Enjoy reading documentation and experimenting with code  
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack
 <p align="center">
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌱 Currently Learning  
+## Currently Learning
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></a>
   <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
@@ -38,47 +38,19 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siriwastaken&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=ff9e64" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriwastaken&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7" height="180" />
-</p>
+## Projects & Achievements
+- Built small CLI games in Java and Python  
+- Programmed a VEX IQ robot and learned about motors, sensors, and control loops  
+- Practicing clean code, documentation, and OOP patterns  
+
+> **Note:** All my repos use MIT Licenses unless stated otherwise, so feel free to fork and learn from my projects.  
 
 ---
 
-## 🏆 Achievements
+## Contact Me
 <p align="center">
-  <img src="https://img.shields.io/badge/Java_Master-Completed_10+_Projects-7aa2f7?style=for-the-badge&logo=java&logoColor=white" alt="Java Master" />
-  <br>
-  <sub>💻 Java Master: Completed 10+ projects</sub>
+  <a href="https://discord.com/users/siridev"><img src="https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/siriwastaken"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python_Wizard-Write_5_Programs-ff9e64?style=for-the-badge&logo=python&logoColor=white" alt="Python Wizard" />
-  <br>
-  <sub>🐍 Python Wizard: Write 5 programs</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics_Engineer-Built_a_Robot-7aa2f7?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Engineer" />
-  <br>
-  <sub>🤖 Robotics Engineer: Built a robot in Vex IQ</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Explorer_Of_Code-Learned_JS%2C_C%2B%2B%2C_Lua-ff9e64?style=for-the-badge&logo=github&logoColor=white" alt="Explorer of Code" />
-  <br>
-  <sub>🌱 Explorer of Code: Learning JavaScript, C++, Lua</sub>
-</p>
-
----
-
-## 📬 Contact Me
-<p align="center">
-  <a href="https://discord.com/users/siridev"><img src="https://img.shields.io/badge/Discord-Join_Me-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/siriwastaken"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-<p align="center">⚡ Always learning. Always coding. Always curious. ⚡</p>
+<p align="center">🌱 Always learning, experimenting, and coding.</p>
