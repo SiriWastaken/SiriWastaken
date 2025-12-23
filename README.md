@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Srri 👋</h1>
+<h1 align="center">Hi, I'm Sri 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
