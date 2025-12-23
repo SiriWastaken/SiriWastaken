@@ -31,9 +31,7 @@
 
 ## Currently Learning
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></a>
   <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-  <a href="https://create.roblox.com/"><img src="https://skillicons.dev/icons?i=lua&theme=dark" /></a>
 </p>
 
 ---
