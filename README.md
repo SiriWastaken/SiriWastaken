@@ -20,7 +20,6 @@
 ## Tech Stack
 <p align="center">
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
- 
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
