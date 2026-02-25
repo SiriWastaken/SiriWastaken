@@ -24,8 +24,9 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
 </p>
-
 ---
 
 ## Currently Learning
