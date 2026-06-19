@@ -11,8 +11,8 @@
 ---
 
 ## About Me
-💻 Student developer exploring **Java**, **Python**, and **object-oriented programming**  
-🤖 Robotics enthusiast, building and programming small robots  
+💻 Student developer exploring **Java**, **Python**, **Swift** and **object-oriented programming**  
+🤖 Robotics enthusiast, building and programming robots  
 📚 Enjoy reading documentation and experimenting with code  
 
 ---
