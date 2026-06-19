@@ -27,14 +27,12 @@
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
   <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
   <a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift&theme=dark" /></a>
-  <a href="https://developer.apple.com/xcode/"><img src="https://skillicons.dev/icons?i=xcode&theme=dark" /></a>
 </p>
 ---
 
 ## Currently Learning
 <p align="center">
    <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
-  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
 </p>
 
 ---
