@@ -37,15 +37,6 @@
 
 ---
 
-## Projects & Achievements
-- Built small CLI games in Java and Python  
-- Programmed a VEX IQ robot and learned about motors, sensors, and control loops  
-- Practicing clean code, documentation, and OOP patterns  
-
-> **Note:** All my repos use MIT Licenses unless stated otherwise, so feel free to fork and learn from my projects.  
-
----
-
 ## Contact Me
 <p align="center">
   <a href="https://discord.com/users/siridev"><img src="https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
