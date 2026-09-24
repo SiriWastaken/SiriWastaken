@@ -40,6 +40,7 @@ Some of the things I enjoy building:
 * More random projects
 * DMOJ problems
 * Spreadsheets
+* FRC
 * Making stuff do what it wasn't designed to 
 
 ---
