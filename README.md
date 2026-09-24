@@ -18,9 +18,13 @@
 ## About Me
 
 💻 Student developer working primarily with **Java** and Typescript
+
 🤖 FRC 
+
 🏆 "Competitive programming" enjoyer on **DMOJ**
+
 📱 Building apps with **React Native**
+
 🔧 I like taking things apart, figuring out how they work, and inevitably creating a few bugs in the process
 
 ---
