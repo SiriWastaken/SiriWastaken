@@ -19,7 +19,7 @@
 
 💻 Student developer working primarily with **Java** and Typescript
 
-🤖 FRC 
+🤖 FRC 610
 
 🏆 "Competitive programming" enjoyer on **DMOJ**
 
@@ -119,13 +119,13 @@ A few of my favourite problems:
 Most of my repositories are a combination of:
 
 * 🤖 Robotics and FRC software
-* 
+
 * 🧮 Competitive programming
-* 
+
 * 📱 Apps and tools
-* 
+
 * 🧪 Experiments with new technologies
-* 
+
 * 🛠️ Projects that started as "this should be easy" (foreshadowing: it wasn't)
 
 Some of it works, some of it doesn't. It's all here. 
