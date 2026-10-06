@@ -25,16 +25,16 @@ I'm a student developer interested in **software engineering, robotics, algorith
 I primarily work with **Java and TypeScript**, with experience building everything from command-line tools to React Native applications and robotics software.
 
 I like projects that are:
-- **Useful** — solving an actual problem is better than adding another demo app.
-- **Small** — a focused project with a clear purpose beats a thousand-line abstraction.
-- **Well engineered** — readable code, tests, documentation, and sensible architecture matter.
-- **A little weird** — sometimes the best projects start with *"I wonder if I can make this work."*
+- **Useful** - solving an actual problem is better than adding another demo app.
+- **Small** - a focused project with a clear purpose beats a thousand-line abstraction.
+- **Well engineered** - readable code, tests, documentation, and sensible architecture matter.
+- **A little weird** - sometimes the best projects start with *"I wonder if I can make this work." SOmetimes yes, sometimes no.*
 
 ---
 
 ## 🤖 Robotics
 
-I'm part of **FRC Team 610**, where I work primarily on the software and data side of the team.
+I'm part of **FRC Team 610**, where I work primarily on the team's software and data.
 
 I've worked on:
 - Scouting and match-data systems
@@ -55,11 +55,9 @@ My repositories generally fall into a few categories:
 |---|---|
 | 🛠️ Developer Tools | CLIs, automation, project utilities |
 | 🤖 Robotics | Scouting, data systems, team software |
-| 🧮 Algorithms | Competitive programming & algorithmic problems |
+| 🧮 Algorithms | "Competitive" programming & algorithmic problems |
 | 📱 Applications | React Native, TypeScript, Java |
 | 🔬 Experiments | Hardware, systems, and things that probably shouldn't work |
-
-I'm currently building toward a collection of **small, independent projects that are meant to stand on their own** rather than one enormous application.
 
 ---
 
@@ -85,10 +83,6 @@ Some topics I particularly enjoy:
 - Difference arrays
 - Finding the simple solution after implementing the complicated one
 
-And, naturally:
-
-> The judge passing the sample cases means absolutely nothing.
-
 ---
 
 ## 🧰 Tech
@@ -109,9 +103,9 @@ And, naturally:
 
 A few projects worth exploring:
 
-- **SIFT** — developer utility for inspecting and maintaining software projects.
-- **Wii-Fit-Board** — Java software for communicating with a Wii Balance Board.
-- **Who Wants To Be A Millionaire** — Java application built around a complete game loop and UI.
+- **SIFT** - developer utility for inspecting and maintaining software projects.
+- **Wii-Fit-Board** - Java software for communicating with a Wii Balance Board.
+- **Who Wants To Be A Millionaire** - Java application built around a complete game loop and UI. For my ICS3U final.
 
 I'm gradually replacing older learning projects with newer projects that better represent how I build software today.
 
