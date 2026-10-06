@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sri 👋</h1>
 
 <p align="center">
-  <strong>Student Developer • Robotics • Competitive Programming</strong>
+  <strong>Student Developer · Robotics · "Competitive" Programming</strong>
 </p>
 
 <p align="center">
@@ -11,135 +11,118 @@
   <a href="https://github.com/siriwastaken?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-View-7aa2f7?style=flat&logo=github" />
   </a>
+  <a href="https://dmoj.ca/user/SiriWastaken">
+    <img src="https://img.shields.io/badge/DMOJ-Profile-2ea44f?style=flat&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-💻 Student developer working primarily with **Java** and Typescript
+I'm a student developer interested in **software engineering, robotics, algorithms, and systems**.
 
-🤖 FRC 610
+I primarily work with **Java and TypeScript**, with experience building everything from command-line tools to React Native applications and robotics software.
 
-🏆 "Competitive programming" enjoyer on **DMOJ**
-
-📱 Building apps with **React Native**
-
-🔧 I like taking things apart, figuring out how they work, and inevitably creating a few bugs in the process
+I like projects that are:
+- **Useful** — solving an actual problem is better than adding another demo app.
+- **Small** — a focused project with a clear purpose beats a thousand-line abstraction.
+- **Well engineered** — readable code, tests, documentation, and sensible architecture matter.
+- **A little weird** — sometimes the best projects start with *"I wonder if I can make this work."*
 
 ---
 
-## 🤖 Robotics & FRC Software
+## 🤖 Robotics
 
-I'm particularly interested in the software and data side of **FIRST Robotics Competition (FRC)**.
+I'm part of **FRC Team 610**, where I work primarily on the software and data side of the team.
 
-Some of the things I enjoy building:
+I've worked on:
+- Scouting and match-data systems
+- React / React Native applications
+- TypeScript and Java tooling
+- Data analysis and visualization
+- Team infrastructure and internal tools
 
-* Random projects
-* Random projects
-* More random projects
-* DMOJ problems
-* Spreadsheets
-* FRC
-* Making stuff do what it wasn't designed to 
+Robotics is where a lot of my software experience comes from: build something, put it in the hands of someone who needs it, discover 14 things you didn't think about, and fix them.
+
+---
+
+## 💻 What I Build
+
+My repositories generally fall into a few categories:
+
+| Area | What I like working on |
+|---|---|
+| 🛠️ Developer Tools | CLIs, automation, project utilities |
+| 🤖 Robotics | Scouting, data systems, team software |
+| 🧮 Algorithms | Competitive programming & algorithmic problems |
+| 📱 Applications | React Native, TypeScript, Java |
+| 🔬 Experiments | Hardware, systems, and things that probably shouldn't work |
+
+I'm currently building toward a collection of **small, independent projects that are meant to stand on their own** rather than one enormous application.
 
 ---
 
 ## 🧠 Competitive Programming
 
-I practice competitive programming on **DMOJ**, mostly in Java, while slowly being convinced that C++ is worth learning.
-
-**Current status:**
+I practice competitive programming on **DMOJ**, primarily in Java.
 
 ```text
-Java       ████████████████████  fortunately (I actually like Java!)
-TypeScript ████████░░░░░░░░░░░░  good language
-Python     ██████░░░░░░░░░░░░░░  learning-ish
-C++        ██░░░░░░░░░░░░░░░░░░  10-99
+Java        ████████████████████  my home turf
+TypeScript  ███████████████░░░░░  very comfortable
+Python      ██████████░░░░░░░░░░  learning
+C++         ███░░░░░░░░░░░░░░░░░  getting there
 ```
 
-### Things I Like
+**87 problems solved · 215 points · 385 submissions**
 
-* Graph algorithms
-* Data structures
-* Difference arrays
-* Dijkstra
-* Disjoint Set Union
-* Making a solution unnecessarily complicated before realizing there's a much easier way
+Some topics I particularly enjoy:
 
-### Things I Don't Like
+- Graph algorithms
+- Data structures
+- Dijkstra
+- Disjoint Set Union
+- Difference arrays
+- Finding the simple solution after implementing the complicated one
 
-* TLE
-* MLE
-* Integer overflow
-* Off-by-one errors
-* Problems that look easy
-* Problems that say they're easy (AHEM AHEM "A Plus B (Hard)"
+And, naturally:
+
+> The judge passing the sample cases means absolutely nothing.
 
 ---
 
-## 🏆 DMOJ
-
-**87 problems solved • 215 points • 385 submissions**
-
-A few of my favourite problems:
-
-* **CCC '09 S5 — Wireless** - still one of my favourites
-* **CCC '09 S4 — Shop and Ship** - introduced me to Dijkstra
-* **CCC '11 S1 — English or French?** - my first S1
-* **CCC '01 J2 — Mod Inverse** - my first problem in C++
-
-### Problems That Have Personally Offended Me
-
-* **CCC '00 J1 — Calendar** - took me seven months
-* **A Simple Mean (but in Assembly)** - why
-* **A Plus B (Hard)** - it was not, in fact, A Plus B
-* **Bowling for Numbers++** - no comment
-
-> **DMOJ advice:** Never celebrate a passing sample case too early. The judge can hear you.
-
----
-
-## 💻 Tech Stack
+## 🧰 Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,swift,react,git,github,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,ts,python,swift,react,nextjs,git,github,vscode,idea&theme=dark" />
 </p>
 
 **Languages:** Java · TypeScript · Python · Swift
 
-**Frameworks:** React Native
+**Frameworks:** React · React Native · Next.js
 
 **Tools:** Git · GitHub · VS Code · IntelliJ IDEA
 
 ---
 
-## 📌 What You'll Find Here
+## 📌 Projects
 
-Most of my repositories are a combination of:
+A few projects worth exploring:
 
-* 🤖 Robotics and FRC software
+- **SIFT** — developer utility for inspecting and maintaining software projects.
+- **Wii-Fit-Board** — Java software for communicating with a Wii Balance Board.
+- **Who Wants To Be A Millionaire** — Java application built around a complete game loop and UI.
 
-* 🧮 Competitive programming
-
-* 📱 Apps and tools
-
-* 🧪 Experiments with new technologies
-
-* 🛠️ Projects that started as "this should be easy" (foreshadowing: it wasn't)
-
-Some of it works, some of it doesn't. It's all here. 
+I'm gradually replacing older learning projects with newer projects that better represent how I build software today.
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://discord.com/users/siridev">
-    <img src="https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+**Discord:** `siridev`
+
+---
 
 <p align="center">
-  <i>Always learning, experimenting, and coding.</i>
+  <i>Build things. Break things. Figure out why. Build them better.</i>
 </p>
