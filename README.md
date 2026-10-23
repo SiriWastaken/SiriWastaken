@@ -87,8 +87,6 @@ Also: **610 Design App** (private; a mobile-first PWA for logging prototype test
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiriWastaken&layout=compact&hide_border=true&disable_animations=true&langs_count=6&bg_color=0d1117&title_color=4c9a76&text_color=8b949e" width="49%" alt="Most used languages by bytes of code"/>
 </p>
 
-<sub>The language bars count bytes of code in public repos. They say nothing about skill.</sub>
-
 <p align="center">
   <a href="https://siriwastaken.github.io">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://github.com/SiriWastaken?tab=repositories">Repositories</a> &nbsp;·&nbsp;
