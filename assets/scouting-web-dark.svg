@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 210" width="440" height="210" role="img" aria-labelledby="t d">
+<title id="t">Scouting Web 2027 live updates</title><desc id="d">The server long-polls the Sync Gateway changes feed and relays an allow-listed set of fields over a session-checked WebSocket to open dashboards, which resume from the last sequence after a reconnect.</desc>
+<defs><style>
+.s{font-family:-apple-system,"SF Pro Text","Helvetica Neue","Segoe UI",system-ui,sans-serif}.m{font-family:ui-monospace,"SF Mono",Menlo,monospace}
+.cap{font-size:12px;fill:#a1a1a6}
+.t{font-size:13px;font-weight:600;fill:#f5f5f7}
+.u{font-size:11px;fill:#a1a1a6}
+.a{font-size:11px;fill:#2997ff}
+.box{fill:#000000;stroke:#424245;stroke-width:1}
+.hi{fill:#000000;stroke:#2997ff;stroke-width:1.5}
+.ok{fill:#000000;stroke:#30d158;stroke-width:1.5}
+.warn{fill:none;stroke:#ff9f0a;stroke-width:1.5;stroke-dasharray:4 3}
+.unk{fill:none;stroke:#a1a1a6;stroke-width:1.5;stroke-dasharray:4 3}
+.ln{fill:none;stroke:#a1a1a6;stroke-width:1.5}
+.fl{fill:none;stroke:#2997ff;stroke-width:1.5}
+</style><marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#2997ff"/></marker><marker id="m" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#a1a1a6"/></marker></defs>
+<rect width="440" height="210" rx="18" fill="#1c1c1e"/>
+<text class="cap s" x="20" y="32">How a change in the scouting database reaches an open dashboard</text><rect class="box" x="30" y="58" width="140" height="46" rx="10"/><text class="t s" x="100.0" y="79.0" text-anchor="middle">Sync Gateway</text><text class="u s" x="100.0" y="94.0" text-anchor="middle">scouting documents</text><path class="fl" d="M170 81H268" marker-end="url(#a)"/><rect class="box" x="270" y="58" width="140" height="46" rx="10"/><text class="t s" x="340.0" y="79.0" text-anchor="middle">Changes feed</text><text class="u s" x="340.0" y="94.0" text-anchor="middle">long-polled</text><path class="fl" d="M340 104V138" marker-end="url(#a)"/><rect class="box" x="270" y="140" width="140" height="46" rx="10"/><text class="t s" x="340.0" y="161.0" text-anchor="middle">WebSocket relay</text><text class="u s" x="340.0" y="176.0" text-anchor="middle">session-checked</text><path class="fl" d="M270 163H172" marker-end="url(#a)"/><rect class="ok" x="30" y="140" width="140" height="46" rx="10"/><text class="t s" x="100.0" y="161.0" text-anchor="middle">Dashboard</text><text class="u s" x="100.0" y="176.0" text-anchor="middle">resumes on reconnect</text>
+</svg>
